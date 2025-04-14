@@ -1,0 +1,13 @@
+var usuario = (prompt("digite seu e-mail"))
+console.log(usuario)
+alert("e-mail cadastrado!")
+var senha = (prompt("digite sua senha"))
+console.log(senha)
+alert("senha inserida!")
+var nome = (prompt("digite seu nome"))
+console.log(nome)
+alert("Otimo nome!")
+var telefone = (prompt("digite seu telefone"))
+console.log(telefone)
+alert("telefone verificado!")
+
